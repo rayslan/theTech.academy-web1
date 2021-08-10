@@ -195,9 +195,9 @@ header .header-inner .header-inner-col .header-inner-nav .header-inner-nav-menu 
   padding-right: 0;
 }
 .hero .container .hero-inner-footer .hero-inner-footer-text p {
-  font-size: 2.8rem;
+  font-size: 1.8rem;
   margin-top: -90px;
-  width: 70%;
+  width: 100%;
   line-height: 4.4rem;
 }
 
