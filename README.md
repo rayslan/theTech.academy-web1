@@ -1,7 +1,8 @@
-# cuberto home cursor using GSAP
+# home cursor using GSAP
 
 https://cuberto-cursor.netlify.app/
 
+```
 Deploying the App
 
 sudo apt install gnupg -y
@@ -13,3 +14,5 @@ sudo apt update && sudo apt install yarn
 sudo apt update && sudo apt install --no-install-recommends yarn
 
 yarn --version
+
+```
