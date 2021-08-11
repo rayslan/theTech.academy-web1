@@ -26,15 +26,15 @@
   }
   .cursor-media {
     display: block;
-    height: 350px;
-    width: 350px;
+    height: 400px;
+    width: 400px;
     overflow: hidden;
     border-radius: 100%;
     transform: scale(0);
     margin: -175px 0 0 -175px;
     position: relative;
     video {
-      height: 350px;
+      height: 400px;
       left: 50%;
       transform: translateX(-50%);
       position: absolute;
